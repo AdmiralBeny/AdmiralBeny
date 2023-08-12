@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Beny
+- I study programming 
+- 👀 I’m interested in being a Web Developer 
+- 🌱 I’m currently learning Python
+- 📫 How to reach me benyvuza75@gmail.com 
