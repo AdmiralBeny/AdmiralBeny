@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Beny
 - Fuck PHP
-- PYTHON | JAVASCRIPT <> NODE
+- PYTHON <> Django | JAVASCRIPT <> NODE
 - 📫 How to reach me benyvuza75@gmail.com 
